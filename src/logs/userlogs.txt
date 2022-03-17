@@ -1,0 +1,17 @@
+el usuario ingreso a la ruta /service
+el usuario ingreso a la ruta /marcos
+el usuario ingreso a la ruta /admin?user=Ada
+el usuario ingreso a la ruta /admin?user=Ada
+el usuario ingreso a la ruta /admin?user=Ada
+el usuario ingreso a la ruta /admin?user=Ada
+el usuario ingreso a la ruta /admin?user=Ada
+el usuario ingreso a la ruta /admin?user=Ada
+el usuario ingreso a la ruta /admin?user=Ada
+el usuario ingreso a la ruta /admin?user=Ada
+el usuario ingreso a la ruta /admin?user=Ada
+el usuario ingreso a la ruta /admin?user=Ada
+el usuario ingreso a la ruta /admin?user=Ada
+el usuario ingreso a la ruta /admin?user=Marcos
+el usuario ingreso a la ruta /admin?user=Marcos
+el usuario ingreso a la ruta /admin?user=Ada
+el usuario ingreso a la ruta /admin?user=Ada
